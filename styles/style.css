@@ -65,7 +65,7 @@
   height: 608px;
   position: absolute;
   right: 0px;
-  bottom: 0px; 
+  bottom: 0px;
   z-index: 1;
 }
 
@@ -109,9 +109,9 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
-  font-weight: normal ;
+  font-weight: normal;
   margin-bottom: 30px;
-  padding: 0
+  padding: 0;
 }
 
 .two-columns__paragraph:first-child {
