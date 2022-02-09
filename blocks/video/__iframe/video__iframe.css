@@ -1,0 +1,11 @@
+.video__iframe {
+    min-width: 515px;
+    min-height: 316px;
+    margin: 0 20px 0 0;
+    padding: 0;
+    border-style: none;
+  }
+  
+  .video__iframe:last-child {
+    margin-right: 0px;
+  }
