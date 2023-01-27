@@ -8,5 +8,5 @@
 
 ### Функциональность и технологии: 
 
-Html,Css, css animation, flex.
+Html,Css, css animation, flex, git.
 
